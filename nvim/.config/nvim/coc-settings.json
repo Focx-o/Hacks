@@ -1,0 +1,25 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx"
+  ],
+  "eslint.filetypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "javascriptreact",
+    "typescript.tsx"
+  ],
+  "eslint.options": {
+    "env": {
+      "browser": "true",
+      "node": true
+    },
+    "configFile": "/home/meliodus/.config/nvim/eslintrc.json"
+  },
+  "diagnostic.virtualText": true
+}
